@@ -1,0 +1,100 @@
+install OS s s
+50000 2
+S 555
+Q 2222
+create folder f
+create file asd txt 45
+sd;kfnas;dnf
+copy file asd
+status00000
+open f
+paste
+status000000
+back
+status00000
+print drives status
+copy folder f
+open f
+paste
+status00000
+back
+status000000
+cut file asd
+go to drive qQ
+install OS ss s
+50000 2
+S 555
+Q 2222
+create folder f
+create file asd txt 45
+asdad
+cut file asd
+go to drive Q
+paste
+status00000
+go to drive S
+status00000
+go to drive Q
+status000000
+paste
+status000000
+go to drive S
+status0000000000
+go to drive Q
+copy file asd
+status000000000000000000000
+go to drive S
+paste
+status0000000000
+go to drive Q
+status0000000000000000
+create folder
+create folder fff
+paste
+copy file asd
+open fff
+paste
+status000000000000
+copy file asd
+create folder s
+open s
+paste
+status00000000000
+back
+status0000000000000000000000
+back
+status00000000000000000000000
+cut folder fff
+go to drive S
+paste
+status000000000000000000000
+go to drive Q
+status0000000000000000000000000000000000
+go to drive S
+copy folder fff
+go to drive Q
+paste
+status0000000000000000
+go to drive S
+status0000000000000000000000000000
+open fff
+status000000000000000000000000
+rename s
+rename folder s ehan
+status000000000
+open ehan
+status000000000000000000
+back
+status000000000000000000000
+cut folder ehan
+status00000000000000000000
+back
+status000000000000000
+paste
+status
+
+
+
+
+
+
